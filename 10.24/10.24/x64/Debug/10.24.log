@@ -1,0 +1,4 @@
+﻿  1024.c
+C:\Users\임명우\source\repos\10.24\10.24\1024.c(68,13): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임명우\source\repos\10.24\10.24\1024.c(56,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  10.24.vcxproj -> C:\Users\임명우\source\repos\10.24\x64\Debug\10.24.exe

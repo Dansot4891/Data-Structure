@@ -1,0 +1,6 @@
+﻿  1017.c
+C:\Users\임명우\source\repos\1017\1017\1017.c(19,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\임명우\source\repos\1017\1017\1017.c(28,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\임명우\source\repos\1017\1017\1017.c(17,9): warning C4101: 'ans' :참조되지 않은 지역 변수입니다.
+C:\Users\임명우\source\repos\1017\1017\1017.c(17,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\임명우\source\repos\1017\1017\1017.c(28): error C4700: 초기화되지 않은 'ans' 지역 변수를 사용했습니다.
